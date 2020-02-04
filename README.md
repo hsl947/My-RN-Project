@@ -8,9 +8,9 @@ $ git clone git@github.com:hsl947/My-RN-Project.git
 $ npm install
 
 # view on simulator
-# for android
+## for android
 $ react-native run-android"
-# for ios
+## for ios
 $ react-native run-ios"
 
 ```
